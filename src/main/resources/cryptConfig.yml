@@ -1,0 +1,29 @@
+tableList:
+  base_emp_class:
+    - emp_name
+  base_user:
+    - mobile
+  community_raffle_user_address:
+    - phone
+  data_user_info:
+    - name
+  manager_user_account:
+    - name
+    - phone
+  qx_appoint_record:
+    - name
+    - mobile
+  qx_beneficiary:
+    - c_name
+    - card_number
+  qx_insurant:
+    - c_name
+    - card_number
+    - mobile
+  qx_policy_holder:
+    - c_name
+    - card_name
+    - card_number
+    - mobile
+  raffle_user_address:
+    - phone
